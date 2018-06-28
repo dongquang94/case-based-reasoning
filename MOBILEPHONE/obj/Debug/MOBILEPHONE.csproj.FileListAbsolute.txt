@@ -1,0 +1,47 @@
+E:\Hoc_Tap\CsharpProject\MOBILEPHONE\MOBILEPHONE\bin\Debug\MOBILEPHONE.exe.config
+E:\Hoc_Tap\CsharpProject\MOBILEPHONE\MOBILEPHONE\bin\Debug\MOBILEPHONE.exe
+E:\Hoc_Tap\CsharpProject\MOBILEPHONE\MOBILEPHONE\bin\Debug\MOBILEPHONE.pdb
+E:\Hoc_Tap\CsharpProject\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.csprojResolveAssemblyReference.cache
+E:\Hoc_Tap\CsharpProject\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.MAIN.resources
+E:\Hoc_Tap\CsharpProject\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.Properties.Resources.resources
+E:\Hoc_Tap\CsharpProject\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.csproj.GenerateResource.Cache
+E:\Hoc_Tap\CsharpProject\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.exe
+E:\Hoc_Tap\CsharpProject\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.pdb
+E:\Hoc_Tap\CsharpProject\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.TimKiem.resources
+E:\Hoc_Tap\CsharpProject\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.HOTRO.resources
+E:\Hoc_Tap\CsharpProject\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.TIMKIEMNANGCAO.resources
+E:\Hoc_Tap\CsharpProject\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.TATCASANPHAM.resources
+E:\Nghien cuu KH\MOBILEPHONE\MOBILEPHONE\bin\Debug\MOBILEPHONE.exe.config
+E:\Nghien cuu KH\MOBILEPHONE\MOBILEPHONE\bin\Debug\MOBILEPHONE.exe
+E:\Nghien cuu KH\MOBILEPHONE\MOBILEPHONE\bin\Debug\MOBILEPHONE.pdb
+E:\Nghien cuu KH\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.HOTRO.resources
+E:\Nghien cuu KH\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.KetQuaHoTro.resources
+E:\Nghien cuu KH\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.MAIN.resources
+E:\Nghien cuu KH\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.Properties.Resources.resources
+E:\Nghien cuu KH\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.TimKiem.resources
+E:\Nghien cuu KH\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.csproj.GenerateResource.Cache
+E:\Nghien cuu KH\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.exe
+E:\Nghien cuu KH\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.pdb
+E:\Nghien cuu KH\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.csprojResolveAssemblyReference.cache
+E:\Nghien cuu KH\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.WEB.resources
+E:\Nghien cuu KH\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.WEBTK.resources
+C:\Users\DongQuang\Desktop\MOBILEPHONE\MOBILEPHONE\bin\Debug\MOBILEPHONE.exe.config
+C:\Users\DongQuang\Desktop\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.exe
+C:\Users\DongQuang\Desktop\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.pdb
+C:\Users\DongQuang\Desktop\MOBILEPHONE\MOBILEPHONE\bin\Debug\MOBILEPHONE.exe
+C:\Users\DongQuang\Desktop\MOBILEPHONE\MOBILEPHONE\bin\Debug\MOBILEPHONE.pdb
+C:\Users\DongQuang\Desktop\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.csprojResolveAssemblyReference.cache
+C:\Users\DongQuang\Desktop\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.HOTRO.resources
+C:\Users\DongQuang\Desktop\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.KetQuaHoTro.resources
+C:\Users\DongQuang\Desktop\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.MAIN.resources
+C:\Users\DongQuang\Desktop\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.Properties.Resources.resources
+C:\Users\DongQuang\Desktop\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.TimKiem.resources
+C:\Users\DongQuang\Desktop\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.WEB.resources
+C:\Users\DongQuang\Desktop\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.WEBTK.resources
+C:\Users\DongQuang\Desktop\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.csproj.GenerateResource.Cache
+D:\Project Study\CShap\MOBILEPHONE\MOBILEPHONE\bin\Debug\MOBILEPHONE.exe.config
+D:\Project Study\CShap\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.exe
+D:\Project Study\CShap\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.pdb
+D:\Project Study\CShap\Code Demo\MOBILEPHONE\MOBILEPHONE\bin\Debug\MOBILEPHONE.exe.config
+D:\Project Study\CShap\Code Demo\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.exe
+D:\Project Study\CShap\Code Demo\MOBILEPHONE\MOBILEPHONE\obj\Debug\MOBILEPHONE.pdb
